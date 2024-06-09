@@ -9,9 +9,8 @@
 <a href="[https://linkedin.com/in/wesley batista souza](https://www.linkedin.com/in/wesley-batista-85a799229/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesley batista souza" height="30" width="40" /></a>
 </p>
 
-<h4>Meu nome é Wesley Batista, aspirante a Frontend Developer. Extremamente apaixonado por tecnologia e amo a cultura japonesa.</h4>
-
-<p>Conheci a tecnologia através dos games, adorava jogar o famoso Counter Stricker 1.6, e vir a explorar a aréa somente em 2021, foi quando tudo começou, minha primeira experiência com código foi com o professor Gustavo Guanabara, do canal no YouTube 'Curso em Video'. Replicava tudo o que era dito por ele, assim então criei minha primeira página da web usando html e css. A emoção de ter o poder de estruturar páginas por conta própria foi incrível. E deste então, sigo me aventurando no desenvolvimento web, rumo ao boss final do primeiro nivel: vaga junior;</p>
+<p>Aspirante a Frontend Developer. Extremamente apaixonado por tecnologia e amo a cultura japonesa.
+Conheci a tecnologia através dos games, adorava jogar o famoso Counter Stricker 1.6, e vir a explorar a aréa somente em 2021, foi quando tudo começou, minha primeira experiência com código foi com o professor Gustavo Guanabara, do canal no YouTube 'Curso em Video'. Replicava tudo o que era dito por ele, assim então criei minha primeira página da web usando html e css. A emoção de ter o poder de estruturar páginas por conta própria foi incrível. E deste então, sigo me aventurando no desenvolvimento web, rumo ao boss final do primeiro nivel: vaga junior;</p>
 
 
 <h4>Front-End Tools</h4>
