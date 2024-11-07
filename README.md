@@ -3,7 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/wesley batista souza](https://www.linkedin.com/in/wesley-batista-85a799229/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesley batista souza" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/wesley batista souza](https://www.linkedin.com/in/wesley-batista-souza/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesley batista souza" height="30" width="40" /></a> 
+ 
+ [![Gmail Badge](https://img.shields.io/badge/gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wessouza06@gmail.com)
+
 </p>
 
 <p>Aspirante a Frontend Developer. Extremamente apaixonado por tecnologia e amo a cultura japonesa.
@@ -38,3 +41,10 @@ Conheci a tecnologia através dos games, adorava jogar o famoso Counter Stricker
 ![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyBatistaSouza&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBatistaSouza&layout=compact)
+
+  <img src="img/pacman.gif" alt="Pacman GIF" width="100%" />
+
+
+
+
+
