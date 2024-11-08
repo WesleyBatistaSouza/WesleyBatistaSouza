@@ -1,4 +1,5 @@
-<h1>Hi 👋, I'm Wesley Batista</h1>
+![github-header-image](https://github.com/user-attachments/assets/0a7076cb-ea14-400f-b144-ce5226345cec)
+
 <h2>Front-End Developer</h2>
 
 <h3 align="left">Connect with me:</h3>
