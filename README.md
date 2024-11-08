@@ -42,9 +42,10 @@ Conheci a tecnologia através dos games, adorava jogar o famoso Counter Stricker
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBatistaSouza&layout=compact)
 
-  <img src="img/pacman.gif" alt="Pacman GIF" width="100%" />
-
-
+<div>
+<img src="https://github.com/user-attachments/assets/c8a3b906-400c-4820-b368-7a91dfb76084" alt="Sasuke Studing GIF" width=
+"640px"/>
+</div>
 
 
 
