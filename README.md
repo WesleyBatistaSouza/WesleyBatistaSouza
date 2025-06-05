@@ -10,7 +10,7 @@
 
 </p>
 
-<p>Aspirante a Frontend Developer. Extremamente apaixonado por tecnologia e amo a cultura japonesa.
+<p>Frontend Developer. Extremamente apaixonado por tecnologia e amo a cultura japonesa.
 Conheci a tecnologia através dos games, adorava jogar o famoso Counter Stricker 1.6, e vir a explorar a aréa somente em 2021, foi quando tudo começou, minha primeira experiência com código foi com o professor Gustavo Guanabara, do canal no YouTube 'Curso em Video'. Replicava tudo o que era dito por ele, assim então criei minha primeira página da web usando html e css. A emoção de ter o poder de estruturar páginas por conta própria foi incrível. E deste então, sigo me aventurando no desenvolvimento web, rumo ao boss final do primeiro nivel: vaga junior;</p>
 
 
